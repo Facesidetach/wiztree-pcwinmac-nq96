@@ -1,4 +1,4 @@
-# 
+# VIP WizTree preajustes para Mac OS | Ligero WizTree preajustes para PC Windows. Con soporte multi-monitor y historial de versiones — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
